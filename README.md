@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+## Attendance Tracker System
 
 ## Project info
 
